@@ -1,6 +1,6 @@
 <h1>Hey there✨ I'm Zizion!</h1>
 <p>I'm a backend developer, with a Bachelor's degree in Software Engineering, specializing in creating robust and scalable web applications.</p>
-<p>Skills: I specialize in utilizing Node.js and Express.js to develop performant backend solutions.</p>
+<p>I specialize in utilizing Node.js and Express.js to develop performant backend solutions.</p>
 <p>My expertise includes designing and implementing RESTful APIs, handling data storage and retrieval, and ensuring the security and reliability of web applications.</p>
 <p><strong>I'm continuously expanding my skill set and staying up-to-date with the latest advancements in backend development</strong></p>
 <h2>Tools:</h2>
